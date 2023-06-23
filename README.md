@@ -3,7 +3,9 @@
 
 ### I am  Front-end Developer
 
-### Contacts:[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-телеграмма-app-48.png)](https://t.me/Lelik_Jan) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-линкедин-48.png)](https://www.linkedin.com/in/alex-kvachkov-aa245a237/)
+[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-телеграмма-app-48.png)](https://t.me/Lelik_Jan) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-линкедин-48.png)](https://www.linkedin.com/in/alex-kvachkov-aa245a237/)
+
+---
 
 ### My technology stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,13 +20,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
 
-### My Projects
+---
+
+### My Projects:
 | PROJECTS | PROJECTS |   PROJECTS |
 | ------- | -------- | -------- | 
 | [CV](https://lelik7777.github.io/rsschool-cv/) |[CALCULATOR](https://lelik7777.github.io/calculator_js/) |[CV](https://lelik7777.github.io/rsschool-cv) |
 | [MOMENTUM](https://lelik7777.github.io/momentum-rs/) |[PRODUCTLY](https://lelik7777.github.io/productly/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
-| [PLANTS](https://lelik7777.github.io/plants-rs/) |[CV](https://lelik7777.github.io/rsschool-cv/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
-| [SHELTER](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[CV](https://lelik7777.github.io/rsschool-cv/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| [PLANTS](https://lelik7777.github.io/plants-rs/) |[TODO LIST](https://lelik7777.github.io/login) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| [SHELTER](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[CARDS](https://freiii21.github.io/friday-project/#/login) |[CV](https://lelik7777.github.io/rsschool-cv/) |
 
 ![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars.PNG)
 
