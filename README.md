@@ -33,7 +33,7 @@
 | ------- | -------- | -------- | 
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_rsschool-cv_.png)](https://lelik7777.github.io/rsschool-cv/) |[CALCULATOR](https://lelik7777.github.io/calculator_js/) |[CV](https://lelik7777.github.io/rsschool-cv) |
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_momentum-rs_.png)](https://lelik7777.github.io/momentum-rs/) |[PRODUCTLY](https://lelik7777.github.io/productly/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
-| [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |[TODO LIST](https://lelik7777.github.io/login/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |[CV](https://lelik7777.github.io/rsschool-cv/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[CARDS](https://freiii21.github.io/friday-project/#/login) |[CV](https://lelik7777.github.io/rsschool-cv/) |
 
 
