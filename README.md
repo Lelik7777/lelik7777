@@ -19,12 +19,12 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
 
 ### My Projects
-| PROJECTS | PROJECTS |  
-| ------- | -------- | 
-| [CV](https://lelik7777.github.io/rsschool-cv/) |[CALCULATOR](https://lelik7777.github.io/calculator_js/) |
-| [MOMENTUM](https://lelik7777.github.io/momentum-rs/) |[PRODUCTLY](https://lelik7777.github.io/productly/) |
-| [PLANTS](https://lelik7777.github.io/plants-rs/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
-| [SHELTER](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| PROJECTS | PROJECTS |   PROJECTS |
+| ------- | -------- | -------- | 
+| [CV](https://lelik7777.github.io/rsschool-cv/) |[CALCULATOR](https://lelik7777.github.io/calculator_js/) |[CV](https://lelik7777.github.io/rsschool-cv) |
+| [MOMENTUM](https://lelik7777.github.io/momentum-rs/) |[PRODUCTLY](https://lelik7777.github.io/productly/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| [PLANTS](https://lelik7777.github.io/plants-rs/) |[CV](https://lelik7777.github.io/rsschool-cv/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| [SHELTER](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[CV](https://lelik7777.github.io/rsschool-cv/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
 
 ![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars.PNG)
 
