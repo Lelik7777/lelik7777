@@ -30,6 +30,10 @@
 | [PLANTS](https://lelik7777.github.io/plants-rs/) |[TODO LIST](https://lelik7777.github.io/login) |[CV](https://lelik7777.github.io/rsschool-cv/) |
 | [SHELTER](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[CARDS](https://freiii21.github.io/friday-project/#/login) |[CV](https://lelik7777.github.io/rsschool-cv/) |
 
+### Languages:
+- **English B1**
+- **Russian Native**
+  
 ![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars.PNG)
 
 <img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="400"/> 
