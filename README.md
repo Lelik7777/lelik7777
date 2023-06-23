@@ -17,3 +17,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
+
+### My Projects
+| PROJECTS | PROJECTS |  
+| ------- | -------- | 
+| [CV](https://lelik7777.github.io/rsschool-cv/) |[CALCULATOR](https://lelik7777.github.io/calculator_js/) |
+| [MOMENTUM](https://lelik7777.github.io/momentum-rs/) |[PRODUCTLY](https://lelik7777.github.io/productly/) |
+| [PLANTS](https://lelik7777.github.io/plants-rs/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| [SHELTER](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+
+![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars.PNG)
+
+<img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="400"/> 
