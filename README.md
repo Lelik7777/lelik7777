@@ -38,6 +38,6 @@
 
 
   
-![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars.PNG)
+[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
 
 <img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="400"/> 
