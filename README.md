@@ -31,13 +31,13 @@
 
 | PROJECTS | PROJECTS |   PROJECTS |
 | ------- | -------- | -------- | 
-| [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_rsschool-cv_.png)](https://lelik7777.github.io/rsschool-cv/) |[CALCULATOR](https://lelik7777.github.io/calculator_js/) |[CV](https://lelik7777.github.io/rsschool-cv) |
-| [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_momentum-rs_.png)](https://lelik7777.github.io/momentum-rs/) |[PRODUCTLY](https://lelik7777.github.io/productly/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_rsschool-cv_.png)](https://lelik7777.github.io/rsschool-cv/) |[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_productly_.png)](https://lelik7777.github.io/productly/) |[CV](https://lelik7777.github.io/rsschool-cv/)  |[CV](https://lelik7777.github.io/rsschool-cv) |
+| [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_momentum-rs_.png)](https://lelik7777.github.io/momentum-rs/) |[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_calculator_js_.png)](https://lelik7777.github.io/calculator_js/)|
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |[CV](https://lelik7777.github.io/rsschool-cv/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
-| [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[CARDS](https://freiii21.github.io/friday-project/#/login) |[CV](https://lelik7777.github.io/rsschool-cv/) |
+| [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/freiii21.github.io_friday-project_.png)](https://freiii21.github.io/friday-project/#/login) |[CV](https://lelik7777.github.io/rsschool-cv/) |
 
 
   
-[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
+[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars1.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
 
 <img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="400"/> 
