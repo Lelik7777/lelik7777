@@ -1,7 +1,7 @@
 ![Header](https://github.com/Lelik7777/lelik7777/blob/main/assets/1659084864603.jpeg)
-## Hi! Aleksey  👋 
+### Hi! Aleksey  👋 
 
-### Front-end Developer
+## Front-end Developer
 
 [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-телеграмма-app-48.png)](https://t.me/Lelik_Jan) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-линкедин-48.png)](https://www.linkedin.com/in/alex-kvachkov-aa245a237/) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-discord-48.png)](https://discord.com/channels/@me)
 
