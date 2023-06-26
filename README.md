@@ -37,9 +37,15 @@
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_momentum-rs_.png)](https://lelik7777.github.io/momentum-rs/) |[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_calculator_js_.png)](https://lelik7777.github.io/calculator_js/)|
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |[CV](https://lelik7777.github.io/rsschool-cv/) |[CV](https://lelik7777.github.io/rsschool-cv/) |
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/shelter/index.html) |[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/freiii21.github.io_friday-project_.png)](https://freiii21.github.io/friday-project/#/login) |[CV](https://lelik7777.github.io/rsschool-cv/) |
-
-
-  
+ 
 [![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars1.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
 
+<details>
+  <summary>:chart_with_upwards_trend:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelik7777&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lelik7777&show_icons=true" />
+</details>
 
+
+  ![](https://komarev.com/ghpvc/?username=Lelik7777&color=green)
