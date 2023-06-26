@@ -1,13 +1,13 @@
 ![Header](https://github.com/Lelik7777/lelik7777/blob/main/assets/1659084864603.jpeg)
-## Hi! My name is Aleksey👋 
+## Hi! Aleksey👋 
 
-### I am  Front-end Developer
+### Front-end Developer
 
 [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-телеграмма-app-48.png)](https://t.me/Lelik_Jan) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-линкедин-48.png)](https://www.linkedin.com/in/alex-kvachkov-aa245a237/) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-discord-48.png)](https://discord.com/channels/@me)
 
 ---
 
-### My technology stack:
+### Technology stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -25,11 +25,11 @@
 ### Languages:
 - **English B1**
 - **Russian Native**
-### My Projects:
+### Projects:
 
 ---
 
-| PROJECTS | PROJECTS |   PROJECTS |
+| LINKS | LINKS |  LINKS |
 | ------- | -------- | -------- | 
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_rsschool-cv_.png)](https://lelik7777.github.io/rsschool-cv/) |[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_productly_.png)](https://lelik7777.github.io/productly/) |[CV](https://lelik7777.github.io/rsschool-cv/)  |[CV](https://lelik7777.github.io/rsschool-cv) |
 | [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_momentum-rs_.png)](https://lelik7777.github.io/momentum-rs/) |[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_calculator_js_.png)](https://lelik7777.github.io/calculator_js/)|
