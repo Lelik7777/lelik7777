@@ -17,6 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-333?style=for-the-badge&logo=webpack&logoColor=white)
 ![Eslint](https://user-images.githubusercontent.com/91879193/231826273-47ced88f-3531-44bf-8370-d2e782feecf4.svg)
+<img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
@@ -42,9 +43,10 @@
 
 <details>
   <summary>:chart_with_upwards_trend:</summary>
+ <br/>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelik7777&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lelik7777&show_icons=true" />
+ 
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lelik7777&show_icons=true" />
 </details>
 
 
