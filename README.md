@@ -29,6 +29,10 @@
 <img src="https://img.shields.io/badge/vs code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=cyan "/>
 <img src="https://img.shields.io/badge/web storm-black?style=for-the-badge&logo=webstorm&logoColor=orange "/>
 
+⌨
+
+<img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> <img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
+
 
 ---
 
