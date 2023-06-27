@@ -38,7 +38,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="400"/> 
+<img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="200"/> 
 
 | PROJECTS | PROJECTS |  PROJECTS |PROJECTS |
 | ------- | -------- | -------- |-------- | 
