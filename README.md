@@ -12,7 +12,8 @@
 
 ---
 
-:muscle: 💻
+<details>
+<summary> :muscle: 💻 </summary>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,12 +39,17 @@
 
 <img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> <img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
 
+</details>
 
 ---
 
-:tongue:
+<details>
+<summary> :tongue: </summary>
+
 - **English B1**
 - **Russian Native**
+
+</details>
 
 ---
 <details>
