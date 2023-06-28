@@ -29,6 +29,10 @@
 <img src="https://img.shields.io/badge/vs code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=cyan "/>
 <img src="https://img.shields.io/badge/web storm-black?style=for-the-badge&logo=webstorm&logoColor=orange "/>
 
+⌨
+
+<img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> <img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
+
 
 ---
 
@@ -38,7 +42,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="400"/> 
+<img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="200" hspace="325"/> 
 
 | PROJECTS | PROJECTS |  PROJECTS |PROJECTS |
 | ------- | -------- | -------- |-------- | 
