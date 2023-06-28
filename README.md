@@ -4,7 +4,7 @@
 ## Front-end Developer
 
 <details>
-  <summary><strong>CONTACTS</strong></summary>
+  <summary>☎️</summary>
 
 [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-телеграмма-app-48.png)](https://t.me/Lelik_Jan) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-линкедин-48.png)](https://www.linkedin.com/in/alex-kvachkov-aa245a237/) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/icons8-discord-48.png)](https://discord.com/channels/@me)
 
@@ -47,7 +47,7 @@
 
 ---
 <details>
- <summary><strong>PROJECTS</strong></summary>
+ <summary>💼</summary>
   
 <img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="200" hspace="325"/> 
 
