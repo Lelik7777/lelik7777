@@ -1,7 +1,7 @@
 ![Header](https://github.com/Lelik7777/lelik7777/blob/main/assets/1659084864603.jpeg)
-### Hi 👋.  I am Aleksey.
+### *Hi* 👋.  *I am Aleksey*.
 
-## Frontend  Developer
+## *Frontend  Developer*
 
 <details>
   <summary>☎️</summary>
