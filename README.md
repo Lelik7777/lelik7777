@@ -21,10 +21,11 @@
 <img src="https://img.shields.io/badge/BEM-green?style=for-the-badge&logo=bem&logoColor=black"/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
 ![Webpack](https://img.shields.io/badge/webpack-333?style=for-the-badge&logo=webpack&logoColor=white)
 ![Eslint](https://user-images.githubusercontent.com/91879193/231826273-47ced88f-3531-44bf-8370-d2e782feecf4.svg)
 <img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
-![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
+
 
 
 🛠
