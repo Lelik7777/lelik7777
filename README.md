@@ -47,7 +47,7 @@
 <details>
 <summary> :tongue: </summary>
 
-- **English B1**
+- **English A2**
 - **Russian Native**
 
 </details>
