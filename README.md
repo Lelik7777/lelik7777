@@ -40,6 +40,10 @@
 
 <img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> <img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
 
+🎯💪
+
+<img src="https://img.shields.io/badge/task planning-gold?style=for-the-badge&logo=English&logoColor=black"/> <img src="https://img.shields.io/badge/task decomposition-gold?style=for-the-badge&logo=English&logoColor=black "/> <img src="https://img.shields.io/badge/timing-gold?style=for-the-badge&logo=English&logoColor=black"/>
+
 </details>
 
 ---
