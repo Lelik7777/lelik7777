@@ -42,7 +42,7 @@
 
 🎯💪
 
-<img src="https://img.shields.io/badge/task planning-gold?style=for-the-badge&logo=English&logoColor=black"/> <img src="https://img.shields.io/badge/task decomposition-gold?style=for-the-badge&logo=English&logoColor=black "/> <img src="https://img.shields.io/badge/timing-gold?style=for-the-badge&logo=English&logoColor=black"/>
+<img src="https://img.shields.io/badge/task planning-gold?style=for-the-badge&logo=English&logoColor=black"/> <img src="https://img.shields.io/badge/task decomposition-gold?style=for-the-badge&logo=English&logoColor=black "/> <img src="https://img.shields.io/badge/time management-gold?style=for-the-badge&logo=English&logoColor=black"/>
 
 </details>
 
@@ -51,7 +51,7 @@
 <details>
 <summary> :tongue: </summary>
 
-- **English A2**
+- **English A2 and movement to B1** 
 - **Russian Native**
 
 </details>
