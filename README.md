@@ -22,9 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
-![Webpack](https://img.shields.io/badge/webpack-333?style=for-the-badge&logo=webpack&logoColor=white)
-![Eslint](https://user-images.githubusercontent.com/91879193/231826273-47ced88f-3531-44bf-8370-d2e782feecf4.svg)
-<img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
+
 
 
 
@@ -35,14 +33,21 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/vs code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=cyan "/>
 <img src="https://img.shields.io/badge/web storm-black?style=for-the-badge&logo=webstorm&logoColor=orange "/>
+![Webpack](https://img.shields.io/badge/webpack-333?style=for-the-badge&logo=webpack&logoColor=white)
+![Eslint](https://user-images.githubusercontent.com/91879193/231826273-47ced88f-3531-44bf-8370-d2e782feecf4.svg)
+<img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
 
 ⌨
 
-<img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> <img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
+<img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
+<img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> 
 
-🎯💪
 
-<img src="https://img.shields.io/badge/task planning-gold?style=for-the-badge&logo=English&logoColor=black"/> <img src="https://img.shields.io/badge/task decomposition-gold?style=for-the-badge&logo=English&logoColor=black "/> <img src="https://img.shields.io/badge/time management-gold?style=for-the-badge&logo=English&logoColor=black"/>
+ 🎯💪
+
+<img src="https://img.shields.io/badge/time management-gold?style=for-the-badge&logo=English&logoColor=black"/>
+<img src="https://img.shields.io/badge/task planning-gold?style=for-the-badge&logo=English&logoColor=black"/>
+<img src="https://img.shields.io/badge/task decomposition-gold?style=for-the-badge&logo=English&logoColor=black "/> 
 
 </details>
 
