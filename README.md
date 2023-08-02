@@ -24,8 +24,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
 
 
-
-
 🛠
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -37,14 +35,20 @@
 ![Eslint](https://user-images.githubusercontent.com/91879193/231826273-47ced88f-3531-44bf-8370-d2e782feecf4.svg)
 <img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
 
+
 ⌨
+
 
 <img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
 <img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> 
 
 
+
+
  🎯💪
 
+ 
+<br/>
 <img src="https://img.shields.io/badge/time management-gold?style=for-the-badge&logo=English&logoColor=black"/>
 <img src="https://img.shields.io/badge/task planning-gold?style=for-the-badge&logo=English&logoColor=black"/>
 <img src="https://img.shields.io/badge/task decomposition-gold?style=for-the-badge&logo=English&logoColor=black "/> 
