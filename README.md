@@ -24,8 +24,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
 
 
-
-
 🛠
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -37,14 +35,20 @@
 ![Eslint](https://user-images.githubusercontent.com/91879193/231826273-47ced88f-3531-44bf-8370-d2e782feecf4.svg)
 <img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
 
+
 ⌨
+
 
 <img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
 <img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> 
 
 
+
+
  🎯💪
 
+ 
+<br/>
 <img src="https://img.shields.io/badge/time management-gold?style=for-the-badge&logo=English&logoColor=black"/>
 <img src="https://img.shields.io/badge/task planning-gold?style=for-the-badge&logo=English&logoColor=black"/>
 <img src="https://img.shields.io/badge/task decomposition-gold?style=for-the-badge&logo=English&logoColor=black "/> 
@@ -74,7 +78,7 @@
 |9 [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |10[CV](https://lelik7777.github.io/rsschool-cv/) |11[CV](https://lelik7777.github.io/rsschool-cv/) |12[CV](https://lelik7777.github.io/rsschool-cv) |
 | 13[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/shelter/index.html) |14[CV](https://lelik7777.github.io/rsschool-cv) |15[CV](https://lelik7777.github.io/rsschool-cv/) |16[CV](https://lelik7777.github.io/rsschool-cv) |
 
-[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars1.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
+[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars_08_2023.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
 
 </details>
   
