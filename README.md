@@ -60,7 +60,7 @@
 <details>
 <summary> :tongue: </summary>
 
-- **English A2 and movement to B1** 
+- **English A2 and moving towards B1** 
 - **Russian Native**
 
 </details>
