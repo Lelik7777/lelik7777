@@ -35,6 +35,7 @@
 ![Eslint](https://user-images.githubusercontent.com/91879193/231826273-47ced88f-3531-44bf-8370-d2e782feecf4.svg)
 <img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
 <img src="https://img.shields.io/badge/Stack overflow-E3F4F4?style=for-the-badge&logo=stackoverflow&logoColor=FFA41B"/>
+<img src="https://img.shields.io/badge/Laverna-66b953?style=for-the-badge&logoColor=FFA41B"/>
 
 ⌨
 
