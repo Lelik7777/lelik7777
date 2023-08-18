@@ -79,7 +79,7 @@
 |9 [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |10[CV](https://lelik7777.github.io/rsschool-cv/) |11[CV](https://lelik7777.github.io/rsschool-cv/) |12[CV](https://lelik7777.github.io/rsschool-cv) |
 | 13[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/shelter/index.html) |14[CV](https://lelik7777.github.io/rsschool-cv) |15[CV](https://lelik7777.github.io/rsschool-cv/) |16[CV](https://lelik7777.github.io/rsschool-cv) |
 
-[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars_544.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
+[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars_18_08.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
 
 </details>
   
