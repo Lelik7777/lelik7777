@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
 <img src="https://img.shields.io/badge/Stack overflow-E3F4F4?style=for-the-badge&logo=stackoverflow&logoColor=FFA41B"/>
 <img src="https://img.shields.io/badge/Laverna-66b953?style=for-the-badge&logo=codersrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codewars-222327?style=for-the-badge&logo=codewars&logoColor=#1361E">
 
 ⌨
 
