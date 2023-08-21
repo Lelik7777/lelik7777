@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
-
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 🛠
 
