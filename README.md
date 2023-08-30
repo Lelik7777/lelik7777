@@ -36,10 +36,10 @@
 <img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
 <img src="https://img.shields.io/badge/Stack overflow-E3F4F4?style=for-the-badge&logo=stackoverflow&logoColor=FFA41B"/>
 <img src="https://img.shields.io/badge/Google-34a855?style=for-the-badge&logo=google&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Laverna-66b953?style=for-the-badge&logo=codersrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/MDN-1a1a1a?style=for-the-badge&logo=mdnwebdocs&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/Codewars-222327?style=for-the-badge&logo=codewars&logoColor=1361E">
 <img src="https://img.shields.io/badge/Google chrome-fcc92c?style=for-the-badge&logo=googlechrome&logoColor=4285F4">
-
+<img src="https://img.shields.io/badge/Laverna-66b953?style=for-the-badge&logo=codersrank&logoColor=white"/>
 
 ⌨
 
