@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
-
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 🛠
 
@@ -35,10 +35,13 @@
 ![Eslint](https://user-images.githubusercontent.com/91879193/231826273-47ced88f-3531-44bf-8370-d2e782feecf4.svg)
 <img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=#FFA500"/>
 <img src="https://img.shields.io/badge/Stack overflow-E3F4F4?style=for-the-badge&logo=stackoverflow&logoColor=FFA41B"/>
+<img src="https://img.shields.io/badge/Google-34a855?style=for-the-badge&logo=google&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/MDN-1a1a1a?style=for-the-badge&logo=mdnwebdocs&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/Codewars-222327?style=for-the-badge&logo=codewars&logoColor=1361E">
+<img src="https://img.shields.io/badge/Google chrome-fcc92c?style=for-the-badge&logo=googlechrome&logoColor=4285F4">
 <img src="https://img.shields.io/badge/Laverna-66b953?style=for-the-badge&logo=codersrank&logoColor=white"/>
 
 ⌨
-
 
 <img src="https://img.shields.io/badge/touch typing rus-orange?style=for-the-badge&logo=English&logoColor=orange "/>
 <img src="https://img.shields.io/badge/touch typing eng-orange?style=for-the-badge&logo=English&logoColor=orange "/> 
@@ -74,12 +77,12 @@
 
 | PROJECTS | PROJECTS |  PROJECTS |PROJECTS |
 | ------- | -------- | -------- |-------- | 
-| 1[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_rsschool-cv_.png)](https://lelik7777.github.io/rsschool-cv/) |2[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_productly_.png)](https://lelik7777.github.io/productly/) |3[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_cssBayan-rs_.png)](https://lelik7777.github.io/cssBayan-rs/)  |4[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/library_small.png)](https://lelik7777.github.io/library-rs/) |
-| 5[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_momentum-rs_.png)](https://lelik7777.github.io/momentum-rs/) |6[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_calculator_js_.png)](https://lelik7777.github.io/calculator_js/)|7[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/freiii21.github.io_friday-project_.png)](https://freiii21.github.io/friday-project/#/login)|8[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/social_network.PNG)](https://lelik7777.github.io/social_network_2021/#/) |
-|9 [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |10[CV](https://lelik7777.github.io/rsschool-cv/) |11[CV](https://lelik7777.github.io/rsschool-cv/) |12[CV](https://lelik7777.github.io/rsschool-cv) |
-| 13[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/shelter/index.html) |14[CV](https://lelik7777.github.io/rsschool-cv) |15[CV](https://lelik7777.github.io/rsschool-cv/) |16[CV](https://lelik7777.github.io/rsschool-cv) |
+| 1.[rsschool-cv](https://github.com/Lelik7777/rsschool-cv)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_rsschool-cv_.png)](https://lelik7777.github.io/rsschool-cv/) |2.[productly-rs](https://github.com/Lelik7777/productly)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_productly_.png)](https://lelik7777.github.io/productly/) |3.[cssBayan-rs](https://github.com/Lelik7777/cssBayan-rs)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_cssBayan-rs_.png)](https://lelik7777.github.io/cssBayan-rs/)  |4.[library-rs](https://github.com/Lelik7777/library-rs)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/library_small.png)](https://lelik7777.github.io/library-rs/) |
+| 5.[momentum-rs](https://github.com/Lelik7777/momentum-rs)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_momentum-rs_.png)](https://lelik7777.github.io/momentum-rs/) |6.[calculator_js](https://github.com/Lelik7777/calculator_js)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_calculator_js_.png)](https://lelik7777.github.io/calculator_js/)|7.[learning cards](https://github.com/Lelik7777/Cards)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/freiii21.github.io_friday-project_.png)](https://freiii21.github.io/friday-project/#/login)|8.[social network](https://github.com/Lelik7777/social_network_2021)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/social_network.PNG)](https://lelik7777.github.io/social_network_2021/#/) |
+|9.[plants-rs](https://github.com/Lelik7777/plants-rs) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |10[CV](https://lelik7777.github.io/rsschool-cv/) |11[CV](https://lelik7777.github.io/rsschool-cv/) |12[CV](https://lelik7777.github.io/rsschool-cv) |
+| 13.[shelter-rs](https://github.com/Lelik7777/shelter-rs)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/) |14[CV](https://lelik7777.github.io/rsschool-cv) |15[CV](https://lelik7777.github.io/rsschool-cv/) |16[CV](https://lelik7777.github.io/rsschool-cv) |
 
-[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars_544.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
+[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars_18_08.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
 
 </details>
   
