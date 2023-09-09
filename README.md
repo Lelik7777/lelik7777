@@ -82,7 +82,7 @@
 |9.[plants-rs](https://github.com/Lelik7777/plants-rs) [![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_plants-rs_.png)](https://lelik7777.github.io/plants-rs/) |10[CV](https://lelik7777.github.io/rsschool-cv/) |11[CV](https://lelik7777.github.io/rsschool-cv/) |12[CV](https://lelik7777.github.io/rsschool-cv) |
 | 13.[shelter-rs](https://github.com/Lelik7777/shelter-rs)[![](https://github.com/Lelik7777/lelik7777/blob/main/assets/lelik7777.github.io_shelter-rs_shelter_index.html.png)](https://lelik7777.github.io/shelter-rs/) |14[CV](https://lelik7777.github.io/rsschool-cv) |15[CV](https://lelik7777.github.io/rsschool-cv/) |16[CV](https://lelik7777.github.io/rsschool-cv) |
 
-[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars_18_08.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
+[![codewars](https://github.com/Lelik7777/lelik7777/blob/main/assets/codewars_09_09.PNG)](https://www.codewars.com/users/rsschool_65c8eee4b7b0bd62)
 
 </details>
   
